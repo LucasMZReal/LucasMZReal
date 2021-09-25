@@ -1,5 +1,5 @@
 * Languages: Portuguese and English
-* Programming Languages: Lua (Luau)
+* Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
 * Working on: [RBLXUtils](https://github.com/RBLXUtils)
 * Age: 14
 * Pronouns: he/him (primary, you can use any pronoun *that isn't made up*)
