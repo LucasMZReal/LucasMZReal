@@ -1,4 +1,5 @@
 * [DevForum Profile](https://devforum.roblox.com/u/lucasmz_rbx/summary)
+* [Twitter](https://twitter.com/LucasMZ_RBX)
 * Languages: Portuguese and English
 * Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
 * Working on: [RBLXUtils](https://github.com/RBLXUtils)
