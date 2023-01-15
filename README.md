@@ -6,7 +6,7 @@
 * Working on: <s>[RBLXUtils](https://github.com/RBLXUtils)</s> (idle)
 * Age: 15
 * Birthday: 09/08 (DD/MM)
-* Pronouns: he/him (primary, you can use any pronoun *that isn't invalid*)
+* Pronouns: he/she/they
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3v449t2mppijk3thpzc4xuhhb&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
