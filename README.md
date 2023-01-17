@@ -1,5 +1,5 @@
 * [DevForum Profile](https://devforum.roblox.com/u/lucasmz_rbx/summary)
-* [Twitter](https://twitter.com/LucasMZ_RBX)
+* [Twitter](https://twitter.com/ytwomansinsta)
 * [Discord](https://discordapp.com/users/808024141151862824/)
 * Languages: Portuguese and English
 * Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
