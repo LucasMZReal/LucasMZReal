@@ -10,4 +10,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3v449t2mppijk3thpzc4xuhhb&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-![create_badge](https://github.com/LucasMZReal/LucasMZReal/assets/55422065/47715a19-b9d8-4e5c-87ba-74f04b971452)
+<img src="//ipv6.he.net/certification/create_badge.php?pass_name=lucasmz&amp;badge=3" style="border: 0; width: 229px; height: 137px" alt="IPv6 Certification Badge for lucasmz"></img>
