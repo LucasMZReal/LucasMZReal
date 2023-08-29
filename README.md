@@ -4,7 +4,7 @@
 * Languages: Portuguese and English
 * Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
 * Working on: <s>[RBLXUtils](https://github.com/RBLXUtils)</s> (idle)
-* Age: 15
+* Age: 16
 * Birthday: 09/08 (DD/MM)
 * Pronouns: he/she/they
 
