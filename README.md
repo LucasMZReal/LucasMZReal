@@ -1,4 +1,4 @@
-* Matrix: lucasmz@matrix.org
+* Matrix: @lucasmz:nope.chat
 * Languages: Portuguese and English
 * Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
 * Working on: myself 😉
