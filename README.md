@@ -5,7 +5,8 @@
 * Pronouns: he/they
 
 Wallets (if you wanna donate for whatever reason):
-* XMR: 89WTyTm524DbA7Y4GBk45PYxTH33AdDuWbG75kCkLpfx8RSkdpR1yV1KGdFNGspsdKHVU1uGLswhCQVCVmSpBVCxDZpwrmn
+* Monero: 89WTyTm524DbA7Y4GBk45PYxTH33AdDuWbG75kCkLpfx8RSkdpR1yV1KGdFNGspsdKHVU1uGLswhCQVCVmSpBVCxDZpwrmn
+* ZCash: u1l3sa4thw069guhsxkr7daw8h6gapgejwx86emwlfg4wag5rn0f76cjdr928jmx73ehrv6fvd28uxpxf0kk83jwp9xylekhrua2ud94pxajn9caj9cgvmdgp4ku0v9ky8hlc373h00z9
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3v449t2mppijk3thpzc4xuhhb&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
