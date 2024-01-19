@@ -1,11 +1,11 @@
 * Matrix: @lucasmz:nope.chat
 * Languages: Portuguese and English
 * Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
-* Working on: myself 😉
+* Working on: nothing rlly
 * Pronouns: he/they
 
 Wallets (if you wanna donate for whatever reason):
-* Monero: 89WTyTm524DbA7Y4GBk45PYxTH33AdDuWbG75kCkLpfx8RSkdpR1yV1KGdFNGspsdKHVU1uGLswhCQVCVmSpBVCxDZpwrmn
+* Monero: 88gca7xkJNcDaJN9UjuKpAf6bbWxY6xSmFNYaCgyhyeeZgjgUh6dEnQ64AQUWq4NnkBamw3UrokqK1DsmuJJhhpxUvtZozb
 * ZCash: u1l3sa4thw069guhsxkr7daw8h6gapgejwx86emwlfg4wag5rn0f76cjdr928jmx73ehrv6fvd28uxpxf0kk83jwp9xylekhrua2ud94pxajn9caj9cgvmdgp4ku0v9ky8hlc373h00z9
 
 
