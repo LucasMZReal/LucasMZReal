@@ -7,7 +7,7 @@
 * Pronouns: he/they
 
 Donate, if something helped you: 
-* Monero (XMR): 88gca7xkJNcDaJN9UjuKpAf6bbWxY6xSmFNYaCgyhyeeZgjgUh6dEnQ64AQUWq4NnkBamw3UrokqK1DsmuJJhhpxUvtZozb
+* Monero (XMR): [88gca7xkJNcDaJN9UjuKpAf6bbWxY6xSmFNYaCgyhyeeZgjgUh6dEnQ64AQUWq4NnkBamw3UrokqK1DsmuJJhhpxUvtZozb](https://github.com/LucasMZReal/LucasMZReal/blob/main/xmr_address_pgp_proof.asc)
 * ... sorry, any other crypto is a no go to me 🫡
 
 ```
