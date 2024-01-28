@@ -27,4 +27,4 @@ ssjf8BkVyl12iNbVdcYA/0Irbu1BbJObIMsxS23QU2WtzEIfD8ZRsEHkbJPCNPkC
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-OpenPGP verifiable by identity ```sign@lucasmz.dev``` @ https://keys.openpgp.org
+OpenPGP pub key verifiable by identity ```sign@lucasmz.dev``` @ https://keys.openpgp.org
