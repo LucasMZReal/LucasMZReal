@@ -1,6 +1,6 @@
 ![create_badge](https://github.com/LucasMZReal/LucasMZReal/assets/55422065/104edda7-56dc-4880-8007-1647779b4ae2)
 
-* Matrix: @lucasmz:nope.chat
+* Matrix: @lucas:yatrix.org
 * Languages: Portuguese and English
 * Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
 * Working on: nothing rlly
