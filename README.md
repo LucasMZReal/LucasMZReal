@@ -1,5 +1,6 @@
 ![create_badge](https://github.com/LucasMZReal/LucasMZReal/assets/55422065/104edda7-56dc-4880-8007-1647779b4ae2)
 
+* Signal (preferred): https://signal.me/#eu/3zZU8RX-e3PYUXX7ibhnJBX8cZpGQDFgD3bSDe2yoP5F8lliAY9JBLhpgyWqfeHH
 * Matrix: @lucas:yatrix.org
 * Languages: Portuguese and English
 * Programming Languages: [Lua](https://lua.org) ([Luau](https://luau-lang.org))
