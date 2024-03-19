@@ -8,7 +8,7 @@ If my work benefited you in someway, and you'd like to donate some amount, you c
 You can also help by also contributing to the projects I support, such as CalyxOS and microG. These are services I use and that need help with any contributions they can get.
 
 Have donated to:
-  * [Calyx Institute](https://calyxinstitute.org (~R$ 150)
+  * [Calyx Institute](https://calyxinstitute.org) (~R$ 150)
   * [Signal](https://signal.org) (~R$ 50)
 
 ![create_badge](https://github.com/LucasMZReal/LucasMZReal/assets/55422065/104edda7-56dc-4880-8007-1647779b4ae2)
